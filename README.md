@@ -14,3 +14,4 @@ This repository provides the bus schedules for the HackPrix Hackathon on June 8t
 - Buses will depart at the specified sharp times.
 
 For Assistance and Queries, Join our Discord Server by clicking [here.](https://discord.com/invite/EbfEhyaNWK)
+<img src="./logo.svg" align="right" width="180px">
