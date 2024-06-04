@@ -1,6 +1,6 @@
 # Bus Schedule for HackPrix Hackathon
 
-This repository contains the bus schedules for the HackPrix Hackathon on June 8th. Please find the detailed schedule and routes for each bus below.
+This repository provides the bus schedules for the HackPrix Hackathon on June 8th. Detailed schedules and routes for each bus are listed below.
 
 | Timings     | Buses | Boarding Point | Route                                                                                                        | Departure Time   |
 |----------|---------|------------------|-------------------------------------------------------------------------------------------------------------|---------|
@@ -13,3 +13,5 @@ This repository contains the bus schedules for the HackPrix Hackathon on June 8t
 - Ensure to be at the boarding point at least 10 minutes before the departure time.
 - Buses will depart at the specified sharp times.
 - For any queries, contact the HackPrix organizing team.
+
+For Assistance and Queries, Join our Discord Server by clicking [here.](https://discord.com/invite/EbfEhyaNWK)
