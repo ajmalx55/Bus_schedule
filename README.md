@@ -4,8 +4,8 @@ This repository contains the bus schedules for the HackPrix Hackathon on June 8t
 
 | Timings     | Bus No | Boarding Point | Route                                                                                                        | Departure Time   |
 |----------|---------|------------------|-------------------------------------------------------------------------------------------------------------|---------|
-| 7:00 AM - 8:40 AM | Bus No 1 | Secundrabad Railway Station | Secundrabad Railway Station → Jubliee Bus Station (JBS) → Tankbund → Lakdika pul – bus stand → Masabtank → Mehdipatnam → Lords Institute | Bus will start at sharp 7:20 AM. |
-| 7:00 AM - 8:40 AM | Bus No 2 | Kachiguda Railway Station   | Kachiguda Railway Station → Mahatma Gandhi Bus Station (MGBS) → Durga nagar → Attapur → Langer House → Bandlaguda Jagir → Lords College | Bus will start at sharp 8:00 AM. |
+| 7:00 AM - 8:40 AM | Bus No 1 | Secundrabad Railway Station | Secundrabad Railway Station → Jubliee Bus Station (JBS) → Tankbund → Lakdika pul – bus stand → Masabtank → Mehdipatnam → Lords Institute | Bus will start at sharp 7:00 AM. |
+| 7:00 AM - 8:40 AM | Bus No 2 | Kachiguda Railway Station   | Kachiguda Railway Station → Mahatma Gandhi Bus Station (MGBS) → Durga nagar → Attapur → Langer House → Bandlaguda Jagir → Lords College | Bus will start at sharp 7:00 AM. |
 | 7:30 AM - 8:40 AM | Bus No 3 | Nampally Railway Station | Nampally Railway Station → Asif Nagar → Mehdipatnam → Lords College | Bus will start at sharp 7:30 AM. |
 | 7:30 AM - 8:40 AM | Bus No 4 | MiyaPur Bus Stand | MiyaPur Bus Stand → Gacchibowli → Kondapur flyover → ORR → Narsingi → Lords college | Bus will start at sharp 7:30 AM. |
 
