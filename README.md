@@ -12,6 +12,5 @@ This repository provides the bus schedules for the HackPrix Hackathon on June 8t
 ### Notes:
 - Ensure to be at the boarding point at least 10 minutes before the departure time.
 - Buses will depart at the specified sharp times.
-- For any queries, contact the HackPrix organizing team.
 
 For Assistance and Queries, Join our Discord Server by clicking [here.](https://discord.com/invite/EbfEhyaNWK)
