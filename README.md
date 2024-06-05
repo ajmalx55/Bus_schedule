@@ -13,6 +13,16 @@ This repository provides the bus schedules for the HackPrix Hackathon on June 8t
 | 7:30 AM        | 8:40 AM      | 3          | [Hyderabad Deccan Nampally Railway Station](https://g.co/kgs/xGjrA8W) | Nampally Railway Station → Asif Nagar → Mehdipatnam &rarr; Langer House &rarr; Bandlaguda jagir &rarr; Kalimandir → Lords Institute  |
 | 7:30 AM        | 8:40 AM      | 4          | [Mehdipatnam Bus Stop](https://g.co/kgs/YcQ1i9Q)                      | Mehdipatnam Bus Stop → Langer House → Bandlaguda jagir → Kalimandir → Lords Institute |
 
+## Driver Details
+
+| Bus Number | Driver Name    | Contact Number  |
+|------------|----------------|-----------------|
+| 1          | Driver 1       | +91             |
+| 2          | Driver 2       | +91             |
+| 3          | Driver 3       | +91             |
+| 4          | Driver 4       | +91             |
+
+
 ### Notes:
 - Ensure to be at the boarding point at least 10 minutes before the departure time.
 - Buses will depart at the specified sharp times.
