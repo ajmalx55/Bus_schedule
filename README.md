@@ -44,7 +44,7 @@ This repository provides the bus schedules for the HackPrix Hackathon on June 8t
 |------------|----------------|-----------------|
 | 1          | Driver 1       | +91             |
 | 2          | Driver 2       | +91             |
-| 3          | Driver 3       | +91             |
+
 
 
 ### Notes:
