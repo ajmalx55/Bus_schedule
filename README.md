@@ -10,8 +10,33 @@ This repository provides the bus schedules for the HackPrix Hackathon on June 8t
 |----------------|--------------|------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|
 | 7:00 AM        | 8:40 AM      | 1          | [Secundrabad Junction](https://g.co/kgs/yqNF3pw)                      | Secundrabad Railway Station → Jubliee Bus Station(JBS) → Tankbund → Lakdikapul Road → Masabtank → Mehdipatnam &rarr; Langer House &rarr; Kalimandir → Lords Institute    |
 | 7:00 AM        | 8:40 AM      | 2          | [Kachiguda Railway Station](https://g.co/kgs/vfycnZK)                 | Kachiguda Railway Station → Mahatma Gandhi Bus Station (MGBS) → Lakdi-ka-pul → Mehdipatnam → Langer House → Kalimandir → Lords Institute  |
-| 7:30 AM        | 8:40 AM      | 3          | [Hyderabad Deccan Nampally Railway Station](https://g.co/kgs/xGjrA8W) | Nampally Railway Station → Asif Nagar → Mehdipatnam &rarr; Langer House &rarr;  Kalimandir → Lords Institute  |
 
+#### Stops and Times
+### Route 1: Secundrabad Junction
+
+| Stop                                 | Time   |
+|--------------------------------------|--------|
+| Secundrabad Railway Station          | 07:00  |
+| Jubilee Bus Station (JBS)            | 07:10  |
+| Opposite of Telangana Martyrs Memorial, TankBund | 07:30  |
+| Lakdikapul Metro Station             | 07:40  |
+| Mehdipatnam bus stop                 | 08:00  |
+| Military Hospital, Langer House      | 08:15  |
+| Kalimandir                           | 08:25  |
+| Lords Institute                      | 08:30  |
+
+### Route 2: Kachiguda Railway Station
+
+| Stop                                 | Time   |
+|--------------------------------------|--------|
+| Kachiguda Railway Station            | 07:00  |
+| Mahatma Gandhi Bus Station (MGBS)    | 07:10  |
+| Hyderabad Deccan Nampally Railway Station | 07:25  |
+| Lakdi-ka-pul Metro Station           | 07:35  |
+| Mehdipatnam Bus Stand                | 07:50  |
+| Military Hospital, Langer House      | 08:05  |
+| Kalimandir                           | 08:25  |
+| Lords Institute                      | 08:30  |
 
 ## Driver Details
 
