@@ -11,8 +11,8 @@ This repository provides the bus schedules for the HackPrix Hackathon on June 8t
 | 7:00 AM        | 8:40 AM      | 1          | [Secundrabad Junction](https://g.co/kgs/yqNF3pw)                      | Secundrabad Railway Station → Jubliee Bus Station(JBS) → Tankbund → Lakdikapul Road → Masabtank → Mehdipatnam &rarr; Langer House &rarr; Kalimandir → Lords Institute    |
 | 7:00 AM        | 8:40 AM      | 2          | [Kachiguda Railway Station](https://g.co/kgs/vfycnZK)                 | Kachiguda Railway Station → Mahatma Gandhi Bus Station (MGBS) → Lakdi-ka-pul → Mehdipatnam → Langer House → Kalimandir → Lords Institute  |
 
-#### Stops and Times
-### Route 1: Secundrabad Junction
+### Stops and Times
+#### Route 1: Secundrabad Junction
 
 | Stop                                 | Time   |
 |--------------------------------------|--------|
@@ -25,7 +25,7 @@ This repository provides the bus schedules for the HackPrix Hackathon on June 8t
 | Kalimandir                           | 08:25  |
 | Lords Institute                      | 08:30  |
 
-### Route 2: Kachiguda Railway Station
+#### Route 2: Kachiguda Railway Station
 
 | Stop                                 | Time   |
 |--------------------------------------|--------|
