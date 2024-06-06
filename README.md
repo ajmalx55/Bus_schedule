@@ -48,6 +48,7 @@ This repository provides the bus schedules for the HackPrix Hackathon on June 8t
 
 
 ### Notes:
+- **Hackers availing the bus facility must be present at the stop 10 minutes before the scheduled stop time.**
 - Ensure to be at the boarding point at least 10 minutes before the departure time.
 - The college name will be written on the bus for easy identification.
 - Buses will depart at the specified sharp times.
